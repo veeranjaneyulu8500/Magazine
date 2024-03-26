@@ -1,0 +1,55 @@
+
+.headline{
+    background-color: blanchedalmond;
+    padding: 10px;
+    
+    }
+    
+    .body{
+    
+    }
+    
+    .article{
+        
+        margin-left: 10px;
+        padding-left: 10px;
+        float: left;
+        
+    }
+    
+    .anchor{
+        font-weight: bold;
+    
+        
+    }
+    .posts{
+    background-color:rgb(223, 207, 187);
+    width:400px;
+    height: 700px;
+        
+    border-top: 4px solid rgb(4, 77, 28);
+    border-bottom: 6px solid rgb(2, 82, 29);
+    float: Right;
+    
+    
+    
+    
+    }
+    
+    h2,h3{
+        color: rgb(2, 90, 64);
+    }
+    
+    p{
+        width: 800px;
+    }
+
+    .copy{
+     clear: both; 
+     font-weight: bold;
+     background-color: gold;
+     padding: 2px;
+     font-size: 22px;
+     text-align: center;
+
+    }
